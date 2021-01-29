@@ -186,9 +186,9 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
   
 ## Demonstrations [🔝](#readme)
 
-* [Flutter Examples](https://github.com/nisrulz/flutter-examples) ` 🔥 5.3k `  - [Examples] Simple basic isolated apps, for budding flutter devs. ` 📝 15 days ago `
-* [Official Gallery](https://github.com/flutter/gallery) ` 🔥 1.8k `  - Flutter Gallery is a resource to help developers evaluate and use Flutter ` 📝 7 days ago `
-* [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) ` 🔥 1.3k `  - An app showcasing Flutter components, with side-by-side source code view. ` 📝 4 days ago `
+* [Flutter Examples](https://github.com/nisrulz/flutter-examples) ` 🔥 5.3k `  - [Examples] Simple basic isolated apps, for budding flutter devs. ` 📝 16 days ago `
+* [Official Gallery](https://github.com/flutter/gallery) ` 🔥 1.8k `  - Flutter Gallery is a resource to help developers evaluate and use Flutter ` 📝 8 days ago `
+* [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) ` 🔥 1.3k `  - An app showcasing Flutter components, with side-by-side source code view. ` 📝 5 days ago `
 * [Generative Art](https://github.com/Solido/flutter-d-art) ` 🔥 348 `  - Generative d.Art with Flutter ` 📝 a year ago `
   
 ## UI [🔝](#readme)
@@ -198,7 +198,7 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
 * [Flushbar](https://github.com/AndreHaueisen/flushbar) ` 🔥 753 `  - Custom widget for Flutter ` 📝 8 months ago `
 * [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) ` 🔥 729 `  - A custom refresh indicator for flutter. ` 📝 a month ago `
 * [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) ` 🔥 559 `  - Tinder like cards swipe effect with Flutter. ` 📝 a year ago `
-* [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) ` 🔥 461 `  - A TypeAhead widget for Flutter, where you can show suggestions to users as they type ` 📝 16 days ago `
+* [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) ` 🔥 461 `  - A TypeAhead widget for Flutter, where you can show suggestions to users as they type ` 📝 17 days ago `
 * [Before After](https://github.com/xsahil03x/before_after) ` 🔥 437 `  - A flutter package which makes it easier to display the difference between two images. ` 📝 3 months ago `
 * [Flip Panel](https://github.com/hnvn/flutter_flip_panel) ` 🔥 370 `  - A package for flip panel with built-in animation ` 📝 a year ago `
 * [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) ` 🔥 353 `  - A simple animated radial menu widget for Flutter. ` 📝 3 years ago `
@@ -206,14 +206,14 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
 * [Direct Select](https://github.com/LanarsInc/direct-select-flutter) ` 🔥 331 `  - DirectSelect is a selection widget with an ethereal, full-screen modal popup displaying the available choices when the widget is interact with. https://dribbble.com/shots/3876250-DirectSelect-Dropdown-ux ` 📝 2 months ago `
 * [Folding Cell](https://github.com/faob-dev/folding_cell) ` 🔥 311 `  - Flutter FoldingCell widget ` 📝 7 months ago `
 * [Snaplist](https://github.com/ariedov/flutter_snaplist) ` 🔥 308 `  - A small library for creating snapping lists. ` 📝 9 months ago `
-* [Card Settings](https://github.com/codegrue/card_settings) ` 🔥 236 `  - A flutter package for building card based forms. ` 📝 14 days ago `
-* [Dough](https://github.com/HatFeather/flutter_dough) ` 🔥 221 `  - This package provides some widgets you can use to create a smooshy UI. ` 📝 4 months ago `
+* [Card Settings](https://github.com/codegrue/card_settings) ` 🔥 236 `  - A flutter package for building card based forms. ` 📝 15 days ago `
+* [Dough](https://github.com/HatFeather/flutter_dough) ` 🔥 221 `  - This package provides some widgets you can use to create a smooshy UI. ` 📝 5 months ago `
 * [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) ` 🔥 216 `  - The app to demo animation with Flutter by implement Facebook reactions ` 📝 a year ago `
 * [Flutter Tags](https://github.com/Dn-a/flutter_tags) ` 🔥 215 `  - With flutter tags you can create selectable or input tags that automatically adapt to the screen width ` 📝 3 months ago `
 * [Stepper Touch](https://github.com/Rahiche/stepper_touch) ` 🔥 202 `  - flutter stepper_touch widget ` 📝 a year ago `
 * [Timelines](https://github.com/chulwoo-park/timelines) ` 🔥 200 `  - A powerful & easy to use timeline package for Flutter! ` 📝 a month ago `
-* [Scratcher](https://github.com/vintage/scratcher) ` 🔥 189 `  - Scratch card widget which temporarily hides content from user. ` 📝 2 months ago `
-* [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) ` 🔥 186 `  - Flutter Credit Card Input form ` 📝 10 days ago `
+* [Scratcher](https://github.com/vintage/scratcher) ` 🔥 189 `  - Scratch card widget which temporarily hides content from user. ` 📝 3 months ago `
+* [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) ` 🔥 186 `  - Flutter Credit Card Input form ` 📝 11 days ago `
 * [Pin Code](https://github.com/LiewJunTung/pin_code_text_field) ` 🔥 177 `  - A highly customisable Flutter widget for entering pin code. Suitable for use cases such as login and OTP. ` 📝 a month ago `
 * [Image Sequence Animator](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) ` 🔥 67 `  - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file. ` 📝 a month ago `
 * [Slide Container](https://pub.dev/packages/slide_container)   
@@ -232,14 +232,14 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
   
 * #### Bottom bars [🔝](#readme)
 
-    * [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) ` 🔥 609 `  - A beautiful and animated bottom navigation ` 📝 2 months ago`
+    * [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) ` 🔥 609 `  - A beautiful and animated bottom navigation ` 📝 3 months ago`
     * [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) ` 🔥 431 `  - Flutter plugin - FancyBottomNavigation ` 📝 2 years ago`
     * [Titled Navigation Bar](https://github.com/pedromassango/titled_navigation_bar) ` 🔥 217 `  - A beautiful and simple bottom navigation bar with smooth animation when switching selected item. ` 📝 8 months ago`
     * [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation)   
   
 * #### Bottom Sheets [🔝](#readme)
 
-    * [Modal Bottom Sheet](https://github.com/jamesblasco/modal_bottom_sheet) ` 🔥 727 `  - Flutter | Create advanced modal bottom sheets. Material, Cupertino or your own style ` 📝 25 days ago`
+    * [Modal Bottom Sheet](https://github.com/jamesblasco/modal_bottom_sheet) ` 🔥 727 `  - Flutter | Create advanced modal bottom sheets. Material, Cupertino or your own style ` 📝 a month ago`
     * [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) ` 🔥 331 `  - An elastic material bottom sheet implementation for Flutter. ` 📝 8 months ago`
   
 * #### Sliders [🔝](#readme)
@@ -269,7 +269,7 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
   
 * #### Effect [🔝](#readme)
 
-    * [Shimmer](https://github.com/hnvn/flutter_shimmer) ` 🔥 1.1k `  - A package provides an easy way to add shimmer effect in Flutter project ` 📝 3 days ago`
+    * [Shimmer](https://github.com/hnvn/flutter_shimmer) ` 🔥 1.1k `  - A package provides an easy way to add shimmer effect in Flutter project ` 📝 4 days ago`
     * [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) ` 🔥 654 `  - A flutter based liquid swipe ` 📝 6 months ago`
     * [Parallax](https://github.com/FlutterRocks/page-transformer) ` 🔥 643 `  - A sample for having PageView transformation effects in Flutter. ` 📝 3 years ago`
     * [Wave](https://github.com/i-protoss/wave) ` 🔥 503 `  - Widget for displaying waves with custom color, duration, floating and blur effects. ` 📝 4 months ago`
@@ -282,7 +282,7 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
 
     * [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) ` 🔥 844 `  - Highly customizable, feature-packed Flutter Calendar with gestures, animations and multiple formats ` 📝 a month ago`
     * [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) ` 🔥 600 `  - Calendar widget for flutter that is swipeable horizontally. This widget can help you build your own calendar widget highly customizable. ` 📝 a month ago`
-    * [Calendar Widget](https://github.com/pinkfish/flutter_calendar) ` 🔥 131 `  - Calendar widget for flutter ` 📝 6 days ago`
+    * [Calendar Widget](https://github.com/pinkfish/flutter_calendar) ` 🔥 131 `  - Calendar widget for flutter ` 📝 7 days ago`
   
 * #### Login [🔝](#readme)
 
@@ -291,13 +291,13 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
   
 * #### Backend-Driven [🔝](#readme)
 
-    * [Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) ` 🔥 808 `  - A Backend-Driven UI toolkit, build your dynamic UI with json, and the json format is very similar with flutter widget code. ` 📝 15 days ago`
+    * [Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) ` 🔥 808 `  - A Backend-Driven UI toolkit, build your dynamic UI with json, and the json format is very similar with flutter widget code. ` 📝 16 days ago`
   
 ## Image [🔝](#readme)
 
-* [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) ` 🔥 1.6k `  - Download, cache and show images in a flutter app ` 📝 13 days ago `
+* [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) ` 🔥 1.6k `  - Download, cache and show images in a flutter app ` 📝 14 days ago `
 * [Photo View](https://github.com/renancaraujo/photo_view) ` 🔥 1.2k `  - Easy to use yet very customizable zoomable image widget for Flutter, Photo View provides a gesture sensitive zoomable widget. Photo View is largely used to show interacive images and other stuff such as SVG. ` 📝 2 months ago `
-* [SVG](https://github.com/dnfield/flutter_svg) ` 🔥 1.1k `  - SVG parsing, rendering, and widget library for Flutter ` 📝 5 days ago `
+* [SVG](https://github.com/dnfield/flutter_svg) ` 🔥 1.1k `  - SVG parsing, rendering, and widget library for Flutter ` 📝 6 days ago `
 * [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) ` 🔥 972 `  - A flutter carousel widget, support infinite scroll, and custom child widget. ` 📝 4 months ago `
 * [Multi Image Picker](https://github.com/Sh1d0w/multi_image_picker) ` 🔥 864 `  - Flutter plugin that allows you to display multi image picker on iOS and Android. ` 📝 2 months ago `
 * [Image Cropper](https://github.com/hnvn/flutter_image_cropper) ` 🔥 703 `  - A Flutter plugin for Android and iOS supports cropping images ` 📝 5 months ago `
@@ -333,7 +333,7 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
 ## Navigation [🔝](#readme)
 
 * [Fluro](https://github.com/goposse/fluro) ` 🔥 3k `  - Fluro is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions. ` 📝 2 months ago `
-* [Get](https://github.com/jonataslaw/get) ` 🔥 2.2k `  - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get. ` 📝 2 days ago `
+* [Get](https://github.com/jonataslaw/get) ` 🔥 2.2k `  - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get. ` 📝 3 days ago `
 * [PageView Indicator](https://github.com/leocavalcante/page_view_indicator) ` 🔥 107 `  - 👆🏻 Builds indication marks for PageView. ` 📝 a year ago `
 * [Deep Link Navigation](https://github.com/Dennis-Krasnov/Flutter-Deep-Link-Navigation) ` 🔥 46 `  - Elegant abstraction for complete deep linking navigation in Flutter ` 📝 a year ago `
   
@@ -354,7 +354,7 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
 
 * [Zefyr](https://github.com/memspace/zefyr) ` 🔥 1.8k `  - Soft and gentle rich text editing for Flutter applications. ` 📝 4 months ago `
 * [AutoSizeText](https://github.com/leisim/auto_size_text) ` 🔥 1.2k `  - Flutter widget that automatically resizes text to fit perfectly within its bounds. ` 📝 2 months ago `
-* [Markdown](https://github.com/flutter/flutter_markdown) ` 🔥 763 `  - A markdown renderer for Flutter. ` 📝 a day ago `
+* [Markdown](https://github.com/flutter/flutter_markdown) ` 🔥 763 `  - A markdown renderer for Flutter. ` 📝 2 days ago `
 * [Masked Text](https://github.com/benhurott/flutter-masked-text) ` 🔥 226 `  - A masked text for Flutter. ` 📝 10 months ago `
 * [TeX](https://github.com/shah-xad/flutter_tex) ` 🔥 159 `  - A Flutter Package to render Mathematics, Physics and Chemistry Equations based on LaTeX ` 📝 3 months ago `
 * [Parsed Text](https://github.com/fayeed/flutter_parsed_text) ` 🔥 125 `  - A Flutter package to parse text and make them into linkified text widget ` 📝 3 months ago `
@@ -368,7 +368,7 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
 ## Internationalization [🔝](#readme)
 
 * [Flutter Translate](https://github.com/bratan/flutter_translate) ` 🔥 240 `  - Flutter Translate is a fully featured localization / internationalization (i18n) library for Flutter. ` 📝 9 months ago `
-* [attranslate](https://github.com/fkirc/attranslate) ` 🔥 157 `  - Semi-automated Text Translator for Websites and Apps ` 📝 18 days ago `
+* [attranslate](https://github.com/fkirc/attranslate) ` 🔥 157 `  - Semi-automated Text Translator for Websites and Apps ` 📝 19 days ago `
 * [GenLang](https://github.com/KingWu/gen_lang) ` 🔥 79 `  - gen_lang is a dart library for internationalization. Extracts messages to generate dart files required by Intl, inspired by Intl_translation and Flutter i18n ` 📝 9 months ago `
   
 ## Styling [🔝](#readme)
@@ -381,16 +381,16 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
   
 * #### Audio [🔝](#readme)
 
-    * [Flutter Sound](https://github.com/dooboolab/flutter_sound) ` 🔥 497 `  - Flutter plugin for sound. Audio recorder and player. ` 📝 8 days ago`
-    * [AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer) ` 🔥 422 `  - Play simultaneously music/audio from assets/network/file directly from Flutter, compatible with android / ios / web / macos, displays notifications ` 📝 19 days ago`
+    * [Flutter Sound](https://github.com/dooboolab/flutter_sound) ` 🔥 497 `  - Flutter plugin for sound. Audio recorder and player. ` 📝 9 days ago`
+    * [AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer) ` 🔥 422 `  - Play simultaneously music/audio from assets/network/file directly from Flutter, compatible with android / ios / web / macos, displays notifications ` 📝 20 days ago`
     * [Flutter Audio Recorder](https://github.com/shadow-app/flutter_audio_recorder) ` 🔥 74 `  - Flutter plugin that can support audio recording and level metering ` 📝 a year ago`
     * [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder)   
   
 * #### Video [🔝](#readme)
 
-    * [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc) ` 🔥 2k `  - WebRTC plugin for Flutter Mobile/Desktop/Web ` 📝 2 days ago`
-    * [Chewie](https://github.com/brianegan/chewie) ` 🔥 1.1k `  - The video player for Flutter with a heart of gold ` 📝 7 days ago`
-    * [CamerAwesome](https://github.com/Apparence-io/camera_awesome) ` 🔥 161 `  - A flutter plugin to handle Android / iOS camera ` 📝 23 days ago`
+    * [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc) ` 🔥 2k `  - WebRTC plugin for Flutter Mobile/Desktop/Web ` 📝 3 days ago`
+    * [Chewie](https://github.com/brianegan/chewie) ` 🔥 1.1k `  - The video player for Flutter with a heart of gold ` 📝 8 days ago`
+    * [CamerAwesome](https://github.com/Apparence-io/camera_awesome) ` 🔥 161 `  - A flutter plugin to handle Android / iOS camera ` 📝 24 days ago`
     * [Video Trimmer](https://github.com/sbis04/video_trimmer) ` 🔥 154 `  - Flutter video trimmer package ` 📝 a month ago`
   
 * #### Voice [🔝](#readme)
@@ -424,7 +424,7 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
 * [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) ` 🔥 1.3k `  - Login page built with @flutter ` 📝 a year ago `
 * [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) ` 🔥 1.2k `  - Flutter UI Challenges ` 📝 3 years ago `
 * [Clone UI Challenges](https://github.com/javico2609/flutter-challenges) ` 🔥 1.1k `  - Flutter UI examples ` 📝 9 months ago `
-* [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) ` 🔥 853 `  - Flutter representation of a Restaurant app UI. ` 📝 15 days ago `
+* [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) ` 🔥 853 `  - Flutter representation of a Restaurant app UI. ` 📝 16 days ago `
 * [Dashboard](https://github.com/Ivaskuu/dashboard) ` 🔥 743 `  - Dashboard concept made with Flutter. ` 📝 3 years ago `
 * [Starter Kit](https://github.com/KingWu/flutter_starter_kit) ` 🔥 541 `  - A starter kit for beginner learns with Bloc pattern, RxDart, sqflite, Fluro and Dio to architect a flutter project. This starter kit build an App Store app as a example ` 📝 8 months ago `
 * [Restaurant Menu](https://github.com/braulio94/menu_flutter) ` 🔥 523 `  - restaurant menu app made with flutter inspired by this design https://goo.gl/jChLBV ` 📝 2 years ago `
@@ -438,13 +438,13 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
 * [ActingWeb First_App](https://github.com/gregertw/actingweb_firstapp) ` 🔥 215 `  - Starter app for Flutter that includes many different production app features; some not typically included in demo apps. ` 📝 4 months ago `
 * [Music Player](https://github.com/thosakwe/flutter_music_player) ` 🔥 194 `  - A music player component for Flutter (i.e. Spotify, Apple Music, etc.) [AGPL/example/no longer maintaining] ` 📝 a year ago `
 * [DrawApp](https://github.com/SnakeyHips/drawapp) ` 🔥 174 `  - Sample Flutter Drawing App which allows the user to draw onto the canvas along with color picker and brush thickness slider. 
-* [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) ` 🔥 153 `  - A Flutter widget to create an iOS settings-table (static TableView). ` 📝 9 days ago `
+* [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) ` 🔥 153 `  - A Flutter widget to create an iOS settings-table (static TableView). ` 📝 10 days ago `
 * [Weather](https://github.com/alessandroaime/Weather) ` 🔥 136 `  - A weather app built to learn how to use Canvas and Animation in Flutter. ` 📝 2 years ago `
 * [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe)   
   
 ## Clone [🔝](#readme)
 
-* [GitTouch](https://github.com/pd4d10/git-touch) ` 🔥 582 `  - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter ` 📝 a day ago `
+* [GitTouch](https://github.com/pd4d10/git-touch) ` 🔥 582 `  - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter ` 📝 2 days ago `
   
 ## Machine Learning [🔝](#readme)
 
@@ -458,7 +458,7 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
   
 * #### Augmented Reality [🔝](#readme)
 
-    * [ARKit Plugin](https://github.com/olexale/arkit_flutter_plugin) ` 🔥 507 `  - ARKit Flutter Plugin ` 📝 21 days ago`
+    * [ARKit Plugin](https://github.com/olexale/arkit_flutter_plugin) ` 🔥 507 `  - ARKit Flutter Plugin ` 📝 22 days ago`
     * [ARCore Plugin](https://github.com/giandifra/arcore_flutter_plugin) ` 🔥 235 `  - Flutter plugin for ARCore SDK, Android platform to build new augmented reality experiences ` 📝 2 months ago`
   
 ## Plugins [🔝](#readme)
@@ -468,19 +468,19 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
   
 ## Device [🔝](#readme)
 
-* [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) ` 🔥 1.4k `  - A Flutter plugin for displaying local notifications on Android, iOS and macOS ` 📝 10 days ago `
+* [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) ` 🔥 1.4k `  - A Flutter plugin for displaying local notifications on Android, iOS and macOS ` 📝 11 days ago `
 * [WebView](https://github.com/dart-flitter/flutter_webview_plugin) ` 🔥 1.3k `  - Community WebView Plugin - Allows Flutter to communicate with a native WebView. ` 📝 3 months ago `
-* [InAppWebView](https://github.com/pichillilorenzo/flutter_inappwebview) ` 🔥 1.2k `  - A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window. ` 📝 5 months ago `
+* [InAppWebView](https://github.com/pichillilorenzo/flutter_inappwebview) ` 🔥 1.2k `  - A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window. ` 📝 4 hours ago `
 * [Permission Handler](https://github.com/baseflow/flutter-permission-handler) ` 🔥 1.1k `  - Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions. ` 📝 4 months ago `
-* [Geolocator](https://github.com/baseflow/flutter-geolocator) ` 🔥 720 `  - Android and iOS Geolocation plugin for Flutter ` 📝 10 days ago `
-* [Location](https://github.com/Lyokone/flutterlocation) ` 🔥 684 `  - A Flutter plugin to easily handle realtime location in iOS and Android. Provides settings for optimizing performance or battery. ` 📝 8 days ago `
+* [Geolocator](https://github.com/baseflow/flutter-geolocator) ` 🔥 724 `  - Android and iOS Geolocation plugin for Flutter ` 📝 11 days ago `
+* [Location](https://github.com/Lyokone/flutterlocation) ` 🔥 684 `  - A Flutter plugin to easily handle realtime location in iOS and Android. Provides settings for optimizing performance or battery. ` 📝 9 days ago `
 * [Downloader](https://github.com/hnvn/flutter_downloader) ` 🔥 519 `  - Flutter Downloader - A plugin for creating and managing download tasks. Supports iOS and Android. Maintainer: @hnvn ` 📝 3 months ago `
-* [File Picker](https://github.com/miguelpruivo/plugins_flutter_file_picker) ` 🔥 479 `  - File picker plugin for Flutter, compatible with both iOS & Android and desktop (go-flutter). ` 📝 19 days ago `
+* [File Picker](https://github.com/miguelpruivo/plugins_flutter_file_picker) ` 🔥 483 `  - File picker plugin for Flutter, compatible with both iOS & Android and desktop (go-flutter). ` 📝 20 days ago `
 * [Geolocation](https://github.com/loup-v/geolocation) ` 🔥 203 `  - Flutter geolocation plugin for Android and iOS. ` 📝 a year ago `
 * [Badger](https://github.com/g123k/flutter_app_badger) ` 🔥 188 `  - Support to update the app badge on the launcher (both for Android and iOS) ` 📝 a year ago `
-* [VPN](https://github.com/X-dea/Flutter_VPN) ` 🔥 146 `  - Plugin to access VPN service for Flutter | Flutter 的 VPN 插件 ` 📝 24 days ago `
-* [UDID](https://github.com/GigaDroid/flutter_udid) ` 🔥 142 `  - Flutter plugin for getting a persistent UDID accross reinstalls on iOS and Android. 
-* [WidgetKit](https://github.com/fasky-software/flutter_widgetkit) ` 🔥 84 `  - Flutter library for iOS Widgets Extensions. Integrate a Widget into your App ` 📝 2 months ago `
+* [VPN](https://github.com/X-dea/Flutter_VPN) ` 🔥 147 `  - Plugin to access VPN service for Flutter | Flutter 的 VPN 插件 ` 📝 25 days ago `
+* [UDID](https://github.com/GigaDroid/flutter_udid) ` 🔥 142 `  - Flutter plugin for getting a persistent UDID accross reinstalls on iOS and Android. ` 📝 a year ago `
+* [WidgetKit](https://github.com/fasky-software/flutter_widgetkit) ` 🔥 86 `  - Flutter library for iOS Widgets Extensions. Integrate a Widget into your App ` 📝 2 months ago `
 * [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) ` 🔥 63 `  - A Flutter plugin that allows you to check if an app is installed/enabled, launch an app and get the list of installed apps. ` 📝 2 years ago `
 * [Battery](https://pub.dev/packages/battery)   
 * [Proximity Sensor Plugin](https://pub.dev/packages/proximity_plugin)   
@@ -488,25 +488,25 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
   
 * #### Scanner [🔝](#readme)
 
-    * [Fast QR Reader View](https://github.com/facundomedica/fast_qr_reader_view) ` 🔥 249 `  - A Fast QR Reader widget for Flutter. For both Android and iOS ` 📝 2 years ago`
-    * [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) ` 🔥 206 `  - Flutter qrcode reader 
+    * [Fast QR Reader View](https://github.com/facundomedica/fast_qr_reader_view) ` 🔥 250 `  - A Fast QR Reader widget for Flutter. For both Android and iOS ` 📝 2 years ago`
+    * [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) ` 🔥 208 `  - Flutter qrcode reader ` 📝 5 months ago`
   
 * #### Bluetooth / NFC / Beacon [🔝](#readme)
 
-    * [Blue](https://github.com/pauldemarco/flutter_blue) ` 🔥 1.5k `  - Bluetooth plugin for Flutter ` 📝 3 months ago`
-    * [NFC Reader](https://github.com/matteocrippa/flutter-nfc-reader) ` 🔥 230 `  - Flutter NFC reader plugin for iOS and Android ` 📝 2 months ago`
-    * [Reactive Ble](https://github.com/PhilipsHue/flutter_reactive_ble) ` 🔥 139 `  - Flutter library that handles BLE operations for multiple devices. ` 📝 11 days ago`
-    * [Beacons](https://github.com/loup-v/beacons) ` 🔥 68 `  - Flutter beacons plugin for Android and iOS. ` 📝 3 years ago`
-    * [Beacon broadcast](https://github.com/pszklarska/beacon_broadcast) ` 🔥 64 `  - A Flutter plugin for turning your device into a beacon. 
-    * [NFC Manager](https://github.com/okadan/flutter-nfc-manager) ` 🔥 38 `  - Flutter plugin for accessing the NFC features on Android and iOS. ` 📝 3 months ago`
+    * [Blue](https://github.com/pauldemarco/flutter_blue) ` 🔥 1.6k `  - Bluetooth plugin for Flutter ` 📝 3 months ago`
+    * [NFC Reader](https://github.com/matteocrippa/flutter-nfc-reader) ` 🔥 231 `  - Flutter NFC reader plugin for iOS and Android ` 📝 2 months ago`
+    * [Reactive Ble](https://github.com/PhilipsHue/flutter_reactive_ble) ` 🔥 144 `  - Flutter library that handles BLE operations for multiple devices. 
+    * [Beacons](https://github.com/loup-v/beacons) ` 🔥 68 `  - Flutter beacons plugin for Android and iOS. 
+    * [Beacon broadcast](https://github.com/pszklarska/beacon_broadcast) ` 🔥 65 `  - A Flutter plugin for turning your device into a beacon. ` 📝 23 days ago`
+    * [NFC Manager](https://github.com/okadan/flutter-nfc-manager) ` 🔥 39 `  - Flutter plugin for accessing the NFC features on Android and iOS. ` 📝 4 months ago`
   
 ## Storage [🔝](#readme)
 
-* [Sqflite](https://github.com/tekartik/sqflite) ` 🔥 2k `  - SQLite flutter plugin ` 📝 17 days ago `
+* [Sqflite](https://github.com/tekartik/sqflite) ` 🔥 2k `  - SQLite flutter plugin ` 📝 4 days ago `
   
 ## Services [🔝](#readme)
 
-* [OneSignal](https://github.com/OneSignal/OneSignal-Flutter-SDK) ` 🔥 407 `  - OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your flutter app with OneSignal ` 📝 2 months ago `
+* [OneSignal](https://github.com/OneSignal/OneSignal-Flutter-SDK) ` 🔥 408 `  - OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your flutter app with OneSignal ` 📝 2 months ago `
 * [Dialogflow](https://github.com/VictorRancesCode/flutter_dialogflow) ` 🔥 163 `  - Flutter package for makes it easy to integrate dialogflow and support dialogflow v2 ` 📝 a year ago `
 * [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) ` 🔥 47 `  - Google places picker plugin for flutter. Opens up the google places picker on ios and android returning the chosen place back to the flutter app. 
 * [App Rating](https://github.com/AppleEducate/app_review) ` 🔥 26 `  - A Flutter Plugin for Requesting and Writing Reviews for the App Store and Google Play. ` 📝 2 years ago `
@@ -517,82 +517,82 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
   
 * #### Standard [🔝](#readme)
 
-    * [Bloc](https://github.com/felangel/bloc) ` 🔥 6.3k `  - A predictable state management library that helps implement the BLoC design pattern ` 📝 7 days ago`
-    * [Provider](https://github.com/rrousselGit/provider) ` 🔥 3.3k `  - InheritedWidgets, but simple ` 📝 5 days ago`
-    * [GetX](https://github.com/jonataslaw/getx) ` 🔥 2.2k `  - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get. ` 📝 7 days ago`
+    * [Bloc](https://github.com/felangel/bloc) ` 🔥 6.3k `  - A predictable state management library that helps implement the BLoC design pattern ` 📝 3 days ago`
+    * [Provider](https://github.com/rrousselGit/provider) ` 🔥 3.3k `  - InheritedWidgets, but simple ` 📝 2 days ago`
+    * [GetX](https://github.com/jonataslaw/getx) ` 🔥 2.2k `  - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get. ` 📝 3 days ago`
     * [MobX](https://github.com/mobxjs/mobx.dart) ` 🔥 1.8k `  - MobX for the Dart language. Hassle-free, reactive state-management for your Dart and Flutter apps. ` 📝 2 months ago`
-    * [RiverPod](https://github.com/rrousselGit/river_pod) ` 🔥 1.1k `  - A simple way to access state while robust and testable. ` 📝 7 days ago`
+    * [RiverPod](https://github.com/rrousselGit/river_pod) ` 🔥 1.2k `  - A simple way to access state while robust and testable. ` 📝 2 days ago`
     * [Binder](https://github.com/letsar/binder) ` 🔥 139 `  - A lightweight, yet powerful way to bind your application state with your business logic. ` 📝 2 months ago`
   
 * #### Redux / ELM / Dependency Injection [🔝](#readme)
 
     * [Fish](https://github.com/alibaba/fish-redux) ` 🔥 6.9k `  - An assembled flutter application framework. ` 📝 8 months ago`
-    * [Redux](https://github.com/brianegan/flutter_redux) ` 🔥 1.4k `  - A library that connects Widgets to a Redux Store ` 📝 3 months ago`
-    * [Inject](https://github.com/google/inject.dart) ` 🔥 830 `  - Compile-time dependency injection for Dart and Flutter 
+    * [Redux](https://github.com/brianegan/flutter_redux) ` 🔥 1.4k `  - A library that connects Widgets to a Redux Store ` 📝 2 days ago`
+    * [Inject](https://github.com/google/inject.dart) ` 🔥 829 `  - Compile-time dependency injection for Dart and Flutter ` 📝 2 years ago`
     * [Flux](https://github.com/google/flutter_flux) ` 🔥 355 `  - Implementation of the Flux framework for Flutter ` 📝 2 years ago`
-    * [Built redux](https://github.com/davidmarne/flutter_built_redux) ` 🔥 79 `  - Built_redux provider for Flutter. 
-    * [Redux.dart](https://github.com/johnpryan/redux.dart) ` 🔥 1 `  - Redux for Dart ` 📝 3 months ago`
+    * [Built redux](https://github.com/davidmarne/flutter_built_redux) ` 🔥 79 `  - Built_redux provider for Flutter. ` 📝 2 years ago`
+    * [Redux.dart](https://github.com/johnpryan/redux.dart) ` 🔥 1 `  - Redux for Dart 
     * [Async Redux](https://pub.dev/packages/async_redux)   
   
 ## Widgets [🔝](#readme)
 
-* [Hooks](https://github.com/rrousselGit/flutter_hooks) ` 🔥 1.6k `  - React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget. ` 📝 2 months ago `
-* [Form Builder](https://github.com/danvick/flutter_form_builder) ` 🔥 663 `  - Simple form maker for Flutter Framework ` 📝 24 days ago `
-* [Functional widget](https://github.com/rrousselGit/functional_widget) ` 🔥 353 `  - A code generator to write widgets as function without loosing the benefits of classes. ` 📝 a month ago `
+* [Hooks](https://github.com/rrousselGit/flutter_hooks) ` 🔥 1.6k `  - React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget. ` 📝 2 days ago `
+* [Form Builder](https://github.com/danvick/flutter_form_builder) ` 🔥 668 `  - Simple form maker for Flutter Framework ` 📝 2 days ago `
+* [Functional widget](https://github.com/rrousselGit/functional_widget) ` 🔥 354 `  - A code generator to write widgets as function without loosing the benefits of classes. 
   
 ## Data [🔝](#readme)
 
 * [Graphql](https://github.com/zino-app/graphql-flutter) ` 🔥 2.4k `  - A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package. ` 📝 3 months ago `
-* [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire) ` 🔥 197 `  - GeoFlutterFire is an open-source library that allows you to store and query firestore documents based on their geographic location. ` 📝 21 days ago `
+* [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire) ` 🔥 197 `  - GeoFlutterFire is an open-source library that allows you to store and query firestore documents based on their geographic location. ` 📝 22 days ago `
 * [Ferry](https://github.com/gql-dart/ferry) ` 🔥 131 `  - Stream-based strongly typed GraphQL client for Dart ` 📝 a month ago `
   
 ## Animation [🔝](#readme)
 
 * [SpinKit](https://github.com/jogboms/flutter_spinkit) ` 🔥 2.1k `  - A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit. ` 📝 10 months ago `
-* [AnimatedTextKit](https://github.com/aagarwal1012/Animated-Text-Kit) ` 🔥 925 `  - A flutter package to create cool and beautiful text animations. ` 📝 22 days ago `
+* [AnimatedTextKit](https://github.com/aagarwal1012/Animated-Text-Kit) ` 🔥 925 `  - A flutter package to create cool and beautiful text animations. ` 📝 23 days ago `
 * [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) ` 🔥 718 `  - Easily add staggered animations to your ListView, GridView, Column and Row children. ` 📝 a year ago `
-* [Simple Animations](https://github.com/felixblaschke/simple_animations) ` 🔥 551 `  - Flutter package for creating awesome animations. ` 📝 6 days ago `
+* [Simple Animations](https://github.com/felixblaschke/simple_animations) ` 🔥 551 `  - Flutter package for creating awesome animations. ` 📝 7 days ago `
 * [Drawing Animation](https://github.com/biocarl/drawing_animation) ` 🔥 301 `  - A Flutter library for gradually painting SVG path objects on canvas (drawing line animation). ` 📝 4 months ago `
 * [Villains](https://github.com/Norbert515/flutter_villains) ` 🔥 292 `  - Flexible and easy to use page transitions. ` 📝 2 years ago `
 * [Sequence Animation](https://github.com/Norbert515/flutter_sequence_animation) ` 🔥 275 `  - Orchestrate multiple animations with ease. ` 📝 2 years ago `
 * [Flutter-animation-set](https://github.com/efoxTeam/flutter-animation-set) ` 🔥 212 `  - Easy to build an animation set ` 📝 a year ago `
-* [Funvas](https://github.com/creativecreatorormaybenot/funvas) ` 🔥 101 `  - Flutter fun canvas - Flutter package that allows creating canvas animations based on time and math functions. ` 📝 10 days ago `
+* [Funvas](https://github.com/creativecreatorormaybenot/funvas) ` 🔥 102 `  - Flutter fun canvas - Flutter package that allows creating canvas animations based on time and math functions. ` 📝 11 days ago `
 * [Animate Do](https://pub.dev/packages/animate_do)   
   
 ## Testing [🔝](#readme)
 
-* [Flutter Gherkin](https://github.com/jonsamwell/flutter_gherkin) ` 🔥 110 `  - A Gherkin parsers and runner for Dart and Flutter which is very similar to cucumber ` 📝 a month ago `
+* [Flutter Gherkin](https://github.com/jonsamwell/flutter_gherkin) ` 🔥 110 `  - A Gherkin parsers and runner for Dart and Flutter which is very similar to cucumber 
   
 ## Web [🔝](#readme)
 
-* [Responsive Framework](https://github.com/Codelessly/ResponsiveFramework) ` 🔥 398 `  - Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/ ` 📝 24 days ago `
+* [Responsive Framework](https://github.com/Codelessly/ResponsiveFramework) ` 🔥 404 `  - Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/ ` 📝 25 days ago `
   
 ## Others [🔝](#readme)
 
-* [AspectD](https://github.com/alibaba-flutter/aspectd) ` 🔥 771 `  - AOP for Flutter(Dart) ` 📝 a month ago `
+* [AspectD](https://github.com/alibaba-flutter/aspectd) ` 🔥 776 `  - AOP for Flutter(Dart) ` 📝 2 days ago `
   
 ## Experimental [🔝](#readme)
 
-* [styled_widget](https://github.com/ReinBentdal/styled_widget) ` 🔥 364 `  - Simplifying widget style in Flutter. ` 📝 4 months ago `
+* [styled_widget](https://github.com/ReinBentdal/styled_widget) ` 🔥 367 `  - Simplifying widget style in Flutter. ` 📝 4 months ago `
   
 ## Game Engines [🔝](#readme)
 
-* [Flame](https://github.com/flame-engine/flame) ` 🔥 3.8k `  - A minimalist Flutter game engine ` 📝 7 days ago `
+* [Flame](https://github.com/flame-engine/flame) ` 🔥 3.8k `  - A minimalist Flutter game engine ` 📝 4 hours ago `
 * [SpriteWidget](https://github.com/spritewidget/spritewidget)   
   
 ## Open source games [🔝](#readme)
 
 * [Tetris](https://github.com/boyan01/flutter-tetris) ` 🔥 1.1k `  - a tetris game powered by flutter. 使用flutter开发俄罗斯方块。 ` 📝 4 months ago `
-* [Crush](https://github.com/boeledi/flutter_crush) ` 🔥 356 `  - How to build a Match-3 game, like Candy Crush, Bejeweled, FishDom… in Flutter. ` 📝 10 months ago `
-* [TRex](https://github.com/renancaraujo/trex-flame) ` 🔥 274 `  - Flutter port of the famous Trex game ` 📝 7 months ago `
+* [Crush](https://github.com/boeledi/flutter_crush) ` 🔥 358 `  - How to build a Match-3 game, like Candy Crush, Bejeweled, FishDom… in Flutter. ` 📝 10 months ago `
+* [TRex](https://github.com/renancaraujo/trex-flame) ` 🔥 277 `  - Flutter port of the famous Trex game ` 📝 7 months ago `
 * [Flip](https://github.com/RedBrogdon/flutterflip) ` 🔥 187 `  - Public repo for flutterflip, a reversi clone built with Flutter. ` 📝 3 months ago `
-* [2048](https://github.com/anuranBarman/2048) ` 🔥 170 `  - Famous 2048 Game in Flutter ` 📝 2 years ago `
-* [Party Charades](https://github.com/vintage/party_flutter) ` 🔥 149 `  - Party Charades game created in Flutter. ` 📝 a year ago `
+* [2048](https://github.com/anuranBarman/2048) ` 🔥 172 `  - Famous 2048 Game in Flutter ` 📝 2 years ago `
+* [Party Charades](https://github.com/vintage/party_flutter) ` 🔥 150 `  - Party Charades game created in Flutter. ` 📝 a year ago `
 * [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) ` 🔥 101 `  - The classic slide (15) puzzle in Dart and Flutter ` 📝 8 months ago `
   
 * #### Flame Engine [🔝](#readme)
 
-    * [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) ` 🔥 124 `  - Cyberpunk-inspired puzzle game prototype created with Flutter and Flame #Hack20 #FlutterHackathon ` 📝 7 months ago`
+    * [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) ` 🔥 123 `  - Cyberpunk-inspired puzzle game prototype created with Flutter and Flame #Hack20 #FlutterHackathon ` 📝 7 months ago`
     * [Awesome Flame](https://github.com/flame-engine/awesome-flame)   
   
 ## Premium [🔝](#readme)
@@ -602,33 +602,33 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
   
 ## Top [🔝](#readme)
 
-* [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) ` 🔥 22.4k `  - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 ` 📝 3 months ago `
-* [Flutter Team Samples](https://github.com/flutter/samples) ` 🔥 8.9k `  - A collection of Flutter examples and demos. ` 📝 3 days ago `
+* [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) ` 🔥 22.4k `  - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 ` 📝 4 months ago `
+* [Flutter Team Samples](https://github.com/flutter/samples) ` 🔥 8.9k `  - A collection of Flutter examples and demos. ` 📝 a day ago `
 * [FlutterGram](https://github.com/mdanics/fluttergram) ` 🔥 1.6k `  - A fully functional Instagram clone written in Flutter using Firebase / Firestore ` 📝 7 months ago `
 * [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) ` 🔥 1.6k `  - Timy - open source mobile app for groups to communicate and organize themselves. Built with flutter. ` 📝 a year ago `
 * [Music Player](https://github.com/iampawan/Flutter-Music-Player) ` 🔥 1.2k `  - Flutter Music Player - First Open Source Flutter based material design music player with audio plugin to play local music files. ` 📝 2 years ago `
-* [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) ` 🔥 1k `  - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage ` 📝 5 days ago `
-* [GitJournal](https://github.com/GitJournal/GitJournal) ` 🔥 947 `  - Mobile first Note Taking integrated with Git ` 📝 5 days ago `
-* [Pokedex](https://github.com/scitbiz/flutter_pokedex) ` 🔥 934 `  - Pokedex app built with Flutter (with lots of animations) ` 📝 2 months ago `
-* [WhatTodo](https://github.com/burhanrashid52/WhatTodo) ` 🔥 807 `  - A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern. You can add a project, labels, and due-date to your task also you can sort your task on the basis of project, label, and dates ` 📝 5 months ago `
-* [Cinematic](https://github.com/aaronoe/FlutterCinematic) ` 🔥 778 `  - Flutter clone of my 'Cinematic' App ` 📝 3 years ago `
-* [Planets](https://github.com/sergiandreplace/flutter_planets_tutorial) ` 🔥 675 `  - The Flutter Planets app tutorial with commits per lesson ` 📝 3 years ago `
-* [Trace](https://github.com/trentpiercy/trace) ` 🔥 629 `  - Modern crypto portfolio & market explorer. Built with @flutter ` 📝 6 months ago `
-* [Taskist](https://github.com/huextrat/Taskist) ` 🔥 615 `  - Flutter ToDo App with Firebase ` 📝 7 months ago `
-* [Spacex-Go](https://github.com/jesusrp98/spacex-go) ` 🔥 536 `  - Simple yet powerful, open-source SpaceX launch tracker. ` 📝 4 days ago `
-* [AuthPass](https://github.com/authpass/authpass) ` 🔥 525 `  - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible. ` 📝 2 months ago `
+* [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) ` 🔥 1k `  - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage ` 📝 6 days ago `
+* [GitJournal](https://github.com/GitJournal/GitJournal) ` 🔥 968 `  - Mobile first Note Taking integrated with Git ` 📝 2 days ago `
+* [Pokedex](https://github.com/scitbiz/flutter_pokedex) ` 🔥 940 `  - Pokedex app built with Flutter (with lots of animations) ` 📝 2 months ago `
+* [WhatTodo](https://github.com/burhanrashid52/WhatTodo) ` 🔥 809 `  - A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern. You can add a project, labels, and due-date to your task also you can sort your task on the basis of project, label, and dates ` 📝 5 months ago `
+* [Cinematic](https://github.com/aaronoe/FlutterCinematic) ` 🔥 782 `  - Flutter clone of my 'Cinematic' App ` 📝 3 years ago `
+* [Planets](https://github.com/sergiandreplace/flutter_planets_tutorial) ` 🔥 678 `  - The Flutter Planets app tutorial with commits per lesson ` 📝 3 years ago `
+* [Trace](https://github.com/trentpiercy/trace) ` 🔥 631 `  - Modern crypto portfolio & market explorer. Built with @flutter ` 📝 6 months ago `
+* [Taskist](https://github.com/huextrat/Taskist) ` 🔥 618 `  - Flutter ToDo App with Firebase ` 📝 7 months ago `
+* [Spacex-Go](https://github.com/jesusrp98/spacex-go) ` 🔥 536 `  - Simple yet powerful, open-source SpaceX launch tracker. ` 📝 5 days ago `
+* [AuthPass](https://github.com/authpass/authpass) ` 🔥 527 `  - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible. ` 📝 2 months ago `
 * [Reply](https://github.com/flschweiger/reply) ` 🔥 496 `  - The 'Reply' Material Design case study built with Flutter. ` 📝 2 years ago `
-* [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) ` 🔥 491 `  - The unofficial conference app for DroidKaigi 2018 Tokyo ` 📝 3 years ago `
 * [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) ` 🔥 491 `  - An app for orientation week at Trinity College, University of Toronto. Made with Flutter ` 📝 2 years ago `
-* [Meme Chat](https://github.com/efortuna/memechat) ` 🔥 483 `  - a meme-based chat application ` 📝 2 years ago `
+* [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) ` 🔥 490 `  - The unofficial conference app for DroidKaigi 2018 Tokyo ` 📝 3 years ago `
+* [Meme Chat](https://github.com/efortuna/memechat) ` 🔥 482 `  - a meme-based chat application ` 📝 2 years ago `
 * [Chillify](https://github.com/KarimElghamry/chillify) ` 🔥 473 `  - Music App made with flutter ` 📝 8 months ago `
 * [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) ` 🔥 466 `  - News App created in Flutter using News API for fetching realtime data and Firebase as the backend and authenticator. ` 📝 3 years ago `
 * [BookSearch](https://github.com/Norbert515/BookSearch) ` 🔥 436 `  - A digital BookShelf for your reading progress. ` 📝 2 years ago `
-* [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) ` 🔥 396 `  - A beer tracking app made with Flutter ` 📝 2 years ago `
+* [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) ` 🔥 397 `  - A beer tracking app made with Flutter ` 📝 2 years ago `
 * [Lime](https://github.com/fablue/lime-flutter) ` 🔥 345 `  - Lime client built using flutter ` 📝 3 years ago `
 * [Enigma](https://github.com/AmitJoki/Enigma) ` 🔥 303 `  - A full-fledged one-to-one chat app developed entirely in Flutter ` 📝 9 months ago `
 * [Deer](https://github.com/aleksanderwozniak/deer) ` 🔥 255 `  - Minimalist Flutter Todo App, built using BLoC pattern ` 📝 3 months ago `
-* [Tourism](https://github.com/bluemix/tourism-demo) ` 🔥 227 `  - Flutter app backed by Redux, shows animations, internationalization (i18n), ClipPath, fonts and others... ` 📝 2 years ago `
+* [Tourism](https://github.com/bluemix/tourism-demo) ` 🔥 228 `  - Flutter app backed by Redux, shows animations, internationalization (i18n), ClipPath, fonts and others... ` 📝 2 years ago `
 * [TailorMade](https://github.com/jogboms/tailor_made) ` 🔥 220 `  - ✄ Managing a Fashion designer's daily routine. ` 📝 a year ago `
 * [Superhero Interaction](https://github.com/pinkeshdarji/SuperHeroInteraction) ` 🔥 211 `  - SuperHeroInteraction ` 📝 2 years ago `
 * [Instory](https://github.com/InvertedX/instory) ` 🔥 186 `  - Beautiful flutter app for downloading Instagram stories ` 📝 4 months ago `
@@ -639,9 +639,9 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
 
 * [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) ` 🔥 1.1k `  - Flutter Launcher Icons - A package which simplifies the task of updating your Flutter app's launcher icon. Fully flexible, allowing you to choose what platform you wish to update the launcher icon for and if you want, the option to keep your old launcher icon in case you want to revert back sometime in the future. Maintainer: @MarkOSullivan94 ` 📝 4 months ago `
 * [FVM](https://github.com/leoafarias/fvm) ` 🔥 1k `  - Flutter Version Management: A simple CLI & GUI to manage Flutter SDK versions. ` 📝 a month ago `
-* [FlutterGen](https://github.com/FlutterGen/flutter_gen) ` 🔥 554 `  - The Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs. ` 📝 6 days ago `
+* [FlutterGen](https://github.com/FlutterGen/flutter_gen) ` 🔥 554 `  - The Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs. ` 📝 7 days ago `
 * [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) ` 🔥 263 `  - Starter project and code generator for Flutter/Redux ` 📝 2 years ago `
-* [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr) ` 🔥 91 `  - A flutter utility to easily create flavors in your flutter application ` 📝 3 months ago `
+* [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr) ` 🔥 91 `  - A flutter utility to easily create flavors in your flutter application ` 📝 4 months ago `
 * [Environment Configuration](https://github.com/TatsuUkraine/dart_environment_config) ` 🔥 62 `  - Environment specific config generator for Dart and Flutter applications during CI/CD builds ` 📝 a month ago `
 * [Fontify](https://github.com/westracer/fontify) ` 🔥 53 `  - Converts SVG icons to OTF font and generates Flutter-compatible class. Provides an API and a CLI tool. 
 * [Mutisya 2](https://flutterstudio.app/)   
@@ -655,16 +655,16 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
   
 ## IntelliJ / Android Studio [🔝](#readme)
 
-* [Enhancement_Suite](https://github.com/marius-h/flutter_enhancement_suite) ` 🔥 126 `  - The essential IntelliJ/Android Studio plugin for making working with Flutter easier than ever! ` 📝 18 days ago `
+* [Enhancement_Suite](https://github.com/marius-h/flutter_enhancement_suite) ` 🔥 126 `  - The essential IntelliJ/Android Studio plugin for making working with Flutter easier than ever! ` 📝 19 days ago `
 * [Flutter Intl](https://plugins.jetbrains.com/plugin/13666-flutter-intl)   
   
 ## Desktop [🔝](#readme)
 
-* [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) ` 🔥 6.8k `  - Experimental plugins for Flutter for Desktop ` 📝 20 days ago `
-* [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter) ` 🔥 4.6k `  - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW. ` 📝 6 days ago `
+* [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) ` 🔥 6.8k `  - Experimental plugins for Flutter for Desktop ` 📝 2 days ago `
+* [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter) ` 🔥 4.6k `  - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW. ` 📝 4 days ago `
 * [Rust Desktop Embedder](https://github.com/gliheng/flutter-rs) ` 🔥 1.7k `  - Build beautiful desktop apps with flutter and rust.  (wip) ` 📝 5 months ago `
-* [Raspberry Pi Embedder](https://github.com/ardera/flutter-pi) ` 🔥 437 `  - A light-weight Flutter Engine Embedder for Raspberry Pi that runs without X. ` 📝 6 days ago `
-* [bitsdojo_window](https://github.com/bitsdojo/bitsdojo_window) ` 🔥 56 `  - A Flutter package that makes it easy to customize and work with your Flutter desktop app window. ` 📝 24 days ago `
+* [Raspberry Pi Embedder](https://github.com/ardera/flutter-pi) ` 🔥 446 `  - A light-weight Flutter Engine Embedder for Raspberry Pi that runs without X. ` 📝 7 days ago `
+* [bitsdojo_window](https://github.com/bitsdojo/bitsdojo_window) ` 🔥 57 `  - A Flutter package that makes it easy to customize and work with your Flutter desktop app window. ` 📝 25 days ago `
   
 ## Learning Flutter - Beginners [🔝](#readme)
 
@@ -704,7 +704,7 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
   
 ## Guide & Interviews [🔝](#readme)
 
-* [Interview Questions](https://github.com/whatsupcoders/Flutter-Interview-Questions) ` 🔥 228 `  - This repo contains a list of helpful Flutter related questions you can use to interview potential candidates. ` 📝 a year ago `
+* [Interview Questions](https://github.com/whatsupcoders/Flutter-Interview-Questions) ` 🔥 229 `  - This repo contains a list of helpful Flutter related questions you can use to interview potential candidates. ` 📝 a year ago `
 * [The International Flutter Starter Kit](https://medium.com/flutter-community/intl-flutter-starter-kit-18415e739fb6)   
   
 ## Presentation material [🔝](#readme)
