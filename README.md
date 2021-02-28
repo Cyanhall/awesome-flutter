@@ -542,8 +542,8 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
   
 ## Data [🔝](#readme)
 
-* [Graphql](https://github.com/zino-app/graphql-flutter) ` 🔥 2.4k `  - A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package. ` 📝 4 days ago `
-* [Ferry](https://github.com/gql-dart/ferry) ` 🔥 147 `  - Stream-based strongly typed GraphQL client for Dart ` 📝 17 days ago `
+* [Graphql](https://github.com/zino-app/graphql-flutter) ` 🔥 2.4k `  - A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package. ` 📝 5 days ago `
+* [Ferry](https://github.com/gql-dart/ferry) ` 🔥 147 `  - Stream-based strongly typed GraphQL client for Dart ` 📝 18 days ago `
 * [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire)   
   
 ## Animation [🔝](#readme)
@@ -577,75 +577,75 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
   
 ## Game Engines [🔝](#readme)
 
-* [Flame](https://github.com/flame-engine/flame) ` 🔥 3.9k `  - A minimalist Flutter game engine ` 📝 3 days ago `
+* [Flame](https://github.com/flame-engine/flame)   
 * [SpriteWidget](https://github.com/spritewidget/spritewidget)   
   
 ## Open source games [🔝](#readme)
 
-* [Tetris](https://github.com/boyan01/flutter-tetris) ` 🔥 1.1k `  - a tetris game powered by flutter. 使用flutter开发俄罗斯方块。 ` 📝 5 months ago `
-* [Crush](https://github.com/boeledi/flutter_crush) ` 🔥 362 `  - How to build a Match-3 game, like Candy Crush, Bejeweled, FishDom… in Flutter. ` 📝 a year ago `
-* [TRex](https://github.com/renancaraujo/trex-flame) ` 🔥 279 `  - Flutter port of the famous Trex game ` 📝 7 months ago `
-* [Flip](https://github.com/RedBrogdon/flutterflip) ` 🔥 188 `  - Public repo for flutterflip, a reversi clone built with Flutter. ` 📝 4 months ago `
-* [2048](https://github.com/anuranBarman/2048) ` 🔥 173 `  - Famous 2048 Game in Flutter ` 📝 2 years ago `
-* [Party Charades](https://github.com/vintage/party_flutter) ` 🔥 150 `  - Party Charades game created in Flutter. ` 📝 a year ago `
-* [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) ` 🔥 103 `  - The classic slide (15) puzzle in Dart and Flutter ` 📝 25 days ago `
+* [Flip](https://github.com/RedBrogdon/flutterflip)   
+* [2048](https://github.com/anuranBarman/2048)   
+* [TRex](https://github.com/renancaraujo/trex-flame)   
+* [Crush](https://github.com/boeledi/flutter_crush)   
+* [Slide Puzzle](https://github.com/kevmoo/slide_puzzle)   
+* [Tetris](https://github.com/boyan01/flutter-tetris)   
+* [Party Charades](https://github.com/vintage/party_flutter)   
   
 * #### Flame Engine [🔝](#readme)
 
-    * [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) ` 🔥 123 `  - Cyberpunk-inspired puzzle game prototype created with Flutter and Flame #Hack20 #FlutterHackathon ` 📝 8 months ago`
     * [Awesome Flame](https://github.com/flame-engine/awesome-flame)   
+    * [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger)   
   
 ## Premium [🔝](#readme)
 
-* [History Of Everything](https://github.com/2d-inc/HistoryOfEverything) ` 🔥 5.5k `  - Flutter Launch Timeline Demo ` 📝 2 years ago `
-* [Developer Quest](https://github.com/2d-inc/developer_quest) ` 🔥 2.8k `  - Respository for the I/O 2019 demo: Become a tech lead, slay bugs, and don't get fired. ` 📝 a year ago `
+* [History Of Everything](https://github.com/2d-inc/HistoryOfEverything)   
+* [Developer Quest](https://github.com/2d-inc/developer_quest)   
   
 ## Top [🔝](#readme)
 
-* [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) ` 🔥 22.5k `  - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 ` 📝 4 months ago `
-* [Flutter Team Samples](https://github.com/flutter/samples) ` 🔥 9k `  - A collection of Flutter examples and demos. ` 📝 3 days ago `
-* [FlutterGram](https://github.com/mdanics/fluttergram) ` 🔥 1.6k `  - A fully functional Instagram clone written in Flutter using Firebase / Firestore ` 📝 8 months ago `
-* [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) ` 🔥 1.6k `  - Timy - open source mobile app for groups to communicate and organize themselves. Built with flutter. ` 📝 a year ago `
-* [Music Player](https://github.com/iampawan/Flutter-Music-Player) ` 🔥 1.2k `  - Flutter Music Player - First Open Source Flutter based material design music player with audio plugin to play local music files. ` 📝 2 years ago `
-* [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) ` 🔥 1.1k `  - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage ` 📝 13 days ago `
-* [GitJournal](https://github.com/GitJournal/GitJournal) ` 🔥 1k `  - Mobile first Note Taking integrated with Git ` 📝 4 days ago `
-* [Pokedex](https://github.com/scitbiz/flutter_pokedex) ` 🔥 954 `  - Pokedex app built with Flutter (with lots of animations) ` 📝 3 months ago `
-* [WhatTodo](https://github.com/burhanrashid52/WhatTodo) ` 🔥 814 `  - A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern. You can add a project, labels, and due-date to your task also you can sort your task on the basis of project, label, and dates ` 📝 20 days ago `
-* [Cinematic](https://github.com/aaronoe/FlutterCinematic) ` 🔥 785 `  - Flutter clone of my 'Cinematic' App ` 📝 3 years ago `
-* [Planets](https://github.com/sergiandreplace/flutter_planets_tutorial) ` 🔥 682 `  - The Flutter Planets app tutorial with commits per lesson ` 📝 3 years ago `
-* [Trace](https://github.com/trentpiercy/trace) ` 🔥 642 `  - Modern crypto portfolio & market explorer. Built with @flutter ` 📝 7 months ago `
-* [Taskist](https://github.com/huextrat/Taskist) ` 🔥 631 `  - Flutter ToDo App with Firebase ` 📝 8 months ago `
-* [AuthPass](https://github.com/authpass/authpass) ` 🔥 551 `  - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible. ` 📝 7 days ago `
-* [Spacex-Go](https://github.com/jesusrp98/spacex-go) ` 🔥 542 `  - Simple yet powerful, open-source SpaceX launch tracker. ` 📝 4 days ago `
-* [Reply](https://github.com/flschweiger/reply) ` 🔥 502 `  - The 'Reply' Material Design case study built with Flutter. ` 📝 2 years ago `
-* [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) ` 🔥 499 `  - An app for orientation week at Trinity College, University of Toronto. Made with Flutter ` 📝 2 years ago `
-* [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) ` 🔥 492 `  - The unofficial conference app for DroidKaigi 2018 Tokyo ` 📝 3 years ago `
-* [Meme Chat](https://github.com/efortuna/memechat) ` 🔥 485 `  - a meme-based chat application ` 📝 2 years ago `
-* [Chillify](https://github.com/KarimElghamry/chillify) ` 🔥 483 `  - Music App made with flutter ` 📝 9 months ago `
-* [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) ` 🔥 466 `  - News App created in Flutter using News API for fetching realtime data and Firebase as the backend and authenticator. ` 📝 3 years ago `
-* [BookSearch](https://github.com/Norbert515/BookSearch) ` 🔥 440 `  - A digital BookShelf for your reading progress. ` 📝 2 years ago `
-* [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) ` 🔥 406 `  - A beer tracking app made with Flutter ` 📝 2 years ago `
-* [Lime](https://github.com/fablue/lime-flutter) ` 🔥 347 `  - Lime client built using flutter ` 📝 3 years ago `
-* [Enigma](https://github.com/AmitJoki/Enigma) ` 🔥 308 `  - A full-fledged one-to-one chat app developed entirely in Flutter 
-* [Deer](https://github.com/aleksanderwozniak/deer) ` 🔥 265 `  - Minimalist Flutter Todo App, built using BLoC pattern ` 📝 4 months ago `
-* [Tourism](https://github.com/bluemix/tourism-demo) ` 🔥 229 `  - Flutter app backed by Redux, shows animations, internationalization (i18n), ClipPath, fonts and others... ` 📝 2 years ago `
-* [TailorMade](https://github.com/jogboms/tailor_made) ` 🔥 219 `  - ✄ Managing a Fashion designer's daily routine. ` 📝 a year ago `
-* [Superhero Interaction](https://github.com/pinkeshdarji/SuperHeroInteraction) ` 🔥 214 `  - SuperHeroInteraction ` 📝 2 years ago `
-* [Instory](https://github.com/InvertedX/instory) ` 🔥 186 `  - Beautiful flutter app for downloading Instagram stories ` 📝 5 months ago `
-* [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) ` 🔥 27 `  - A quick hack using image and transform widgets ` 📝 2 years ago `
+* [Flutter Team Samples](https://github.com/flutter/samples)   
+* [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app)   
+* [Meme Chat](https://github.com/efortuna/memechat)   
 * [Flitter](https://github.com/dart-flitter/flitter)   
+* [Lime](https://github.com/fablue/lime-flutter)   
+* [Planets](https://github.com/sergiandreplace/flutter_planets_tutorial)   
+* [NewsBuzz](https://github.com/theankurkedia/NewsBuzz)   
+* [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter)   
+* [Music Player](https://github.com/iampawan/Flutter-Music-Player)   
+* [WhatTodo](https://github.com/burhanrashid52/WhatTodo)   
+* [FlutterGram](https://github.com/mdanics/fluttergram)   
+* [BookSearch](https://github.com/Norbert515/BookSearch)   
+* [Cinematic](https://github.com/aaronoe/FlutterCinematic)   
+* [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up)   
+* [Trace](https://github.com/trentpiercy/trace)   
+* [Taskist](https://github.com/huextrat/Taskist)   
+* [Tourism](https://github.com/bluemix/tourism-demo)   
+* [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018)   
+* [Transform Widget](https://github.com/DrPaulT/flutter-engine-test)   
+* [Deer](https://github.com/aleksanderwozniak/deer)   
+* [TailorMade](https://github.com/jogboms/tailor_made)   
+* [Instory](https://github.com/InvertedX/instory)   
+* [Spacex-Go](https://github.com/jesusrp98/spacex-go)   
+* [Superhero Interaction](https://github.com/pinkeshdarji/SuperHeroInteraction)   
+* [Reply](https://github.com/flschweiger/reply)   
+* [Enigma](https://github.com/AmitJoki/Enigma)   
+* [Chillify](https://github.com/KarimElghamry/chillify)   
+* [Pokedex](https://github.com/scitbiz/flutter_pokedex)   
+* [Timy Messenger](https://github.com/janoodleFTW/timy-messenger)   
+* [GitJournal](https://github.com/GitJournal/GitJournal)   
+* [AuthPass](https://github.com/authpass/authpass)   
+* [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone)   
   
 ## Utilities [🔝](#readme)
 
-* [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) ` 🔥 1.1k `  - Flutter Launcher Icons - A package which simplifies the task of updating your Flutter app's launcher icon. Fully flexible, allowing you to choose what platform you wish to update the launcher icon for and if you want, the option to keep your old launcher icon in case you want to revert back sometime in the future. Maintainer: @MarkOSullivan94 ` 📝 5 months ago `
-* [FVM](https://github.com/leoafarias/fvm) ` 🔥 1.1k `  - Flutter Version Management: A simple CLI to manage Flutter SDK versions. ` 📝 9 days ago `
-* [FlutterGen](https://github.com/FlutterGen/flutter_gen) ` 🔥 568 `  - The Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs. ` 📝 3 days ago `
-* [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) ` 🔥 263 `  - Starter project and code generator for Flutter/Redux ` 📝 2 years ago `
-* [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr) ` 🔥 95 `  - A flutter utility to easily create flavors in your flutter application ` 📝 4 months ago `
-* [Environment Configuration](https://github.com/TatsuUkraine/dart_environment_config) ` 🔥 63 `  - Environment specific config generator for Dart and Flutter applications during CI/CD builds ` 📝 2 months ago `
-* [Fontify](https://github.com/westracer/fontify) ` 🔥 59 `  - Converts SVG icons to OTF font and generates Flutter-compatible class. Provides an API and a CLI tool. 
 * [Mutisya 2](https://flutterstudio.app/)   
+* [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons)   
+* [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter)   
 * [FlutterIcon](http://fluttericon.com/)   
+* [FVM](https://github.com/leoafarias/fvm)   
+* [Environment Configuration](https://github.com/TatsuUkraine/dart_environment_config)   
+* [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr)   
+* [Fontify](https://github.com/westracer/fontify)   
+* [FlutterGen](https://github.com/FlutterGen/flutter_gen)   
   
 ## VSCode [🔝](#readme)
 
@@ -655,16 +655,16 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
   
 ## IntelliJ / Android Studio [🔝](#readme)
 
-* [Enhancement_Suite](https://github.com/marius-h/flutter_enhancement_suite) ` 🔥 131 `  - The essential IntelliJ/Android Studio plugin for making working with Flutter easier than ever! ` 📝 2 months ago `
+* [Enhancement_Suite](https://github.com/marius-h/flutter_enhancement_suite)   
 * [Flutter Intl](https://plugins.jetbrains.com/plugin/13666-flutter-intl)   
   
 ## Desktop [🔝](#readme)
 
-* [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) ` 🔥 6.8k `  - Experimental plugins for Flutter for Desktop ` 📝 3 days ago `
-* [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter) ` 🔥 4.6k `  - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW. ` 📝 a month ago `
-* [Rust Desktop Embedder](https://github.com/gliheng/flutter-rs) ` 🔥 1.7k `  - Build beautiful desktop apps with flutter and rust.  (wip) ` 📝 6 months ago `
-* [Raspberry Pi Embedder](https://github.com/ardera/flutter-pi) ` 🔥 467 `  - A light-weight Flutter Engine Embedder for Raspberry Pi that runs without X. ` 📝 22 days ago `
-* [bitsdojo_window](https://github.com/bitsdojo/bitsdojo_window) ` 🔥 67 `  - A Flutter package that makes it easy to customize and work with your Flutter desktop app window. ` 📝 4 days ago `
+* [Desktop Embedding](https://github.com/google/flutter-desktop-embedding)   
+* [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter)   
+* [Rust Desktop Embedder](https://github.com/gliheng/flutter-rs)   
+* [bitsdojo_window](https://github.com/bitsdojo/bitsdojo_window)   
+* [Raspberry Pi Embedder](https://github.com/ardera/flutter-pi)   
   
 ## Learning Flutter - Beginners [🔝](#readme)
 
@@ -700,11 +700,11 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
   
 ## Hardware [🔝](#readme)
 
-* [Matrix2](https://github.com/bus710/matrix2) ` 🔥 18 `  - A toy project to drive Sense Hat's matrix by using Go, Flutter/Web, and Docker ` 📝 4 months ago `
+* [Matrix2](https://github.com/bus710/matrix2)   
   
 ## Guide & Interviews [🔝](#readme)
 
-* [Interview Questions](https://github.com/whatsupcoders/Flutter-Interview-Questions) ` 🔥 231 `  - This repo contains a list of helpful Flutter related questions you can use to interview potential candidates. ` 📝 a year ago `
+* [Interview Questions](https://github.com/whatsupcoders/Flutter-Interview-Questions)   
 * [The International Flutter Starter Kit](https://medium.com/flutter-community/intl-flutter-starter-kit-18415e739fb6)   
   
 ## Presentation material [🔝](#readme)
