@@ -543,7 +543,7 @@ Original Data from [Awesome Flutter](https://github.com/Solido/awesome-flutter/b
 ## Data [🔝](#readme)
 
 * [Graphql](https://github.com/zino-app/graphql-flutter) ` 🔥 2.4k `  - A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package. ` 📝 7 days ago `
-* [Ferry](https://github.com/gql-dart/ferry) ` 🔥 147 `  - Stream-based strongly typed GraphQL client for Dart ` 📝 19 days ago `
+* [Ferry](https://github.com/gql-dart/ferry) ` 🔥 147 `  - Stream-based strongly typed GraphQL client for Dart ` 📝 20 days ago `
 * [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire)   
   
 ## Animation [🔝](#readme)
